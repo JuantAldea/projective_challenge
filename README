@@ -1,4 +1,7 @@
-In the pics directory, you'll find 5 short "videos" with 10 frames each of driving the same set of road. Different cars, different mountings, etc...
+In the pics directory, you'll find 5 short "videos" with 10 frames each of
+ driving the same set of road. 
+
+Different cars, different mountings, etc...
 
 Your goal, write a program to localize them all with respect to each other in 3 space.
 
